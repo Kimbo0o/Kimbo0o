@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kimbo0o
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning React
-- 📫 How to reach me: https://kimdanielkoch.de, kimkoch1000@gmail.com
+- 📫 How to reach me: https://kimdanielkoch.de, contact@kimdanielkoch.de
