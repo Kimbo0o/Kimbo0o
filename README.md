@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kimbo0o
+- 👋 Hi, I’m Kim Daniel
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Vue and GraphQL
+- 🌱 I’m currently learning Vue.js and GraphQL
 - 📫 How to reach me: https://kimdanielkoch.de, contact@kimdanielkoch.de
